@@ -1,78 +1,131 @@
 # ♻️ Missão E-Lixo: Tecnologia que Cuida do Planeta
 
-Projeto educativo desenvolvido no curso de **Análise e Desenvolvimento de Sistemas**, dentro do eixo **Meio Ambiente e Saúde**, com foco na conscientização infantil sobre lixo eletrônico, descarte correto e responsabilidade socioambiental.
+Projeto educativo de Caroline de Santana, estudante de Análise e Desenvolvimento de Sistemas, desenvolvido no eixo Meio Ambiente e Saúde.
 
-## 🌱 Sobre o projeto
+A iniciativa combina educação ambiental, atividades infantis e um guia digital para aproximar a comunidade do descarte responsável de resíduos eletrônicos.
 
-A tecnologia faz parte do nosso cotidiano, mas celulares, computadores, pilhas, baterias, cabos e outros equipamentos também chegam ao fim de sua vida útil.
+## 🌱 O problema
 
-Quando esses resíduos são descartados de forma inadequada, podem causar impactos ao meio ambiente e à saúde.
+Celulares, computadores, cabos e outros equipamentos fazem parte do cotidiano. Quando deixam de funcionar ou de ser utilizados, surgem dúvidas sobre onde descartá-los.
 
-A **Missão E-Lixo: Tecnologia que Cuida do Planeta** nasceu com a proposta de aproximar esse assunto da realidade das crianças de uma maneira simples, visual e participativa.
-
-Para tornar a experiência mais lúdica, foi criada a **Teka**, personagem que acompanha as crianças durante a apresentação e ajuda a explicar conceitos relacionados ao lixo eletrônico e ao descarte correto.
+O descarte inadequado pode causar impactos ao meio ambiente e à saúde. O projeto busca tornar essas informações mais acessíveis às crianças e às suas famílias.
 
 ## 🎯 Objetivos
 
-- Conscientizar sobre o descarte correto de resíduos eletrônicos.
-- Apresentar os impactos do descarte inadequado na saúde e no meio ambiente.
-- Incentivar a identificação e separação correta dos resíduos.
-- Utilizar recursos visuais e tecnológicos como ferramentas de educação ambiental.
-- Relacionar tecnologia e responsabilidade socioambiental.
+- Explicar o que é lixo eletrônico com linguagem acessível.
+- Conscientizar sobre os impactos do descarte inadequado.
+- Incentivar a separação e a destinação correta dos resíduos.
+- Disponibilizar orientações e pontos de coleta à comunidade.
+- Aplicar recursos digitais a uma necessidade socioambiental.
+
+## 👧 Conheça a Teka
+
+Teka é a mascote educativa da Missão E-Lixo: uma menina de óculos vermelhos que acompanha as crianças na descoberta do destino correto dos resíduos eletrônicos.
+
+A personagem integra a identidade visual do projeto e aparece na apresentação e nos materiais educativos, tornando o tema mais próximo do público infantil.
+
+Sua imagem foi criada com auxílio do ChatGPT, conforme descrito na seção de transparência sobre o uso de inteligência artificial.
 
 ## 🔎 Metodologia
 
-O projeto utiliza a **Observação Participante** como metodologia de diagnóstico.
+O método escolhido para o diagnóstico é a Observação Participante, com aproximação da comunidade escolar e observação do contexto em que a ação será desenvolvida.
 
-A etapa inicial envolveu contato com a comunidade escolar, compreensão do contexto, definição do público e planejamento de uma abordagem adequada às crianças.
+A proposta educativa foi organizada com linguagem simples, perguntas, exemplos do cotidiano e uma dinâmica de classificação de resíduos.
 
-A partir dessa observação, a proposta foi estruturada com linguagem simples, elementos visuais e atividades interativas.
+As observações da atividade servirão de base para registrar a participação, as dúvidas e os aprendizados percebidos, sem antecipar resultados.
 
 ## 🎮 A experiência educativa
 
-A Missão E-Lixo foi planejada para ser uma experiência participativa, utilizando:
+A ação foi planejada com:
 
-- apresentação ilustrada;
-- personagem Teka;
-- exemplos do cotidiano;
-- perguntas durante a apresentação;
-- dinâmica com cartões;
-- identificação e separação de diferentes tipos de resíduos;
-- orientações sobre descarte responsável.
+- Apresentação ilustrada com a personagem Teka.
+- Perguntas sobre a presença da tecnologia no cotidiano.
+- Explicações sobre lixo eletrônico, meio ambiente e saúde.
+- Dinâmica “Desafio da Teka: onde eu descarto?”.
+- Cartões ilustrados para classificação de resíduos.
+- Caixas identificadas para recicláveis, orgânicos e lixo eletrônico.
+- Cartaz com QR Code para acesso ao guia digital.
+
+Na dinâmica, são utilizados cartões representando os resíduos.
+
+## 🌐 Guia digital
+
+O site foi criado pela autora no Google Sites e reúne orientações sobre descarte de lixo eletrônico e informações sobre pontos de coleta.
+
+👉 [Acesse o guia da Missão E-Lixo](https://sites.google.com/view/missao-e-lixo)
+
+O QR Code dos materiais impressos direciona para o site, permitindo que crianças, familiares e educadores consultem as informações após a apresentação.
+
+O guia amplia o alcance da ação e deixa um recurso disponível para a comunidade.
 
 ## 💻 Relação com Análise e Desenvolvimento de Sistemas
 
-O projeto parte da ideia de que trabalhar com tecnologia também envolve compreender seus impactos na sociedade e no meio ambiente.
+A Missão E-Lixo conecta tecnologia e necessidades da comunidade por meio de:
 
-Equipamentos eletrônicos possuem um ciclo de vida e, quando deixam de ser utilizados, sua destinação também se torna uma questão relacionada à tecnologia.
+- Identificação de um problema real.
+- Compreensão do público e de suas necessidades de informação.
+- Organização de conteúdo em linguagem acessível.
+- Criação e publicação de uma página no Google Sites.
+- Integração entre materiais impressos e conteúdo digital por QR Code.
+- Documentação do projeto no GitHub.
 
-Além disso, o projeto utiliza recursos digitais para organizar e comunicar informações, demonstrando como conhecimentos da área de tecnologia podem ser aplicados à educação, conscientização e solução de problemas da comunidade.
+A solução digital utiliza o Google Sites, sem desenvolvimento de uma aplicação própria em código.
 
-## 🌎 Meio Ambiente e Saúde
+O projeto também aborda a responsabilidade relacionada ao ciclo de vida dos equipamentos tecnológicos.
 
-O descarte inadequado de resíduos eletrônicos pode provocar impactos ambientais e riscos relacionados ao manejo incorreto de determinados componentes.
+## 🛠️ Ferramentas e recursos
 
-Por isso, o projeto trabalha a educação ambiental desde a infância e incentiva atitudes responsáveis relacionadas ao consumo, reutilização e descarte.
+- Google Sites: criação e publicação do guia digital.
+- PowerPoint: apresentação educativa.
+- QR Code: acesso ao site a partir dos materiais impressos.
+- GitHub: documentação e apresentação do projeto no portfólio.
+- ChatGPT/OpenAI: apoio à criação de imagens e à organização e revisão de conteúdos.
 
 ## 📂 Materiais
 
-Neste repositório estão sendo reunidos os materiais desenvolvidos para o projeto.
+O repositório reúne a apresentação em PowerPoint e a documentação do projeto.
 
-- 📊 Apresentação: `Missão E-Lixo.pptx`
-- 📋 Metodologia: Observação Participante
-- 🎨 Material educativo com a personagem Teka
+Outros materiais produzidos para a ação incluem roteiro de apresentação, cartões ilustrados, identificação das caixas e cartaz com QR Code. Eles poderão ser adicionados ao repositório conforme sua organização e revisão.
 
-## 🚧 Status do projeto
+## 🤖 Transparência sobre o uso de IA
 
-**Em desenvolvimento.**
+A representação visual da personagem Teka foi criada com auxílio da ferramenta de inteligência artificial generativa ChatGPT, da OpenAI, a partir do conceito e das características definidos pela autora do projeto.
 
-A atividade com a comunidade escolar está programada para **22 de setembro de 2026**.
+O ChatGPT também foi utilizado como apoio na organização e revisão de textos e materiais.
 
-Após sua realização, este repositório será atualizado com os resultados, aprendizados e registros permitidos da experiência, preservando a privacidade dos participantes.
+Caroline de Santana é responsável pela idealização do projeto, pelas decisões sobre o conteúdo e a proposta educativa, pela seleção e revisão dos materiais, pela montagem do site e pela condução da ação.
+
+O uso da ferramenta é declarado de forma transparente, sem apresentar as imagens geradas como ilustrações desenhadas manualmente pela autora.
+
+## 🔒 Privacidade dos participantes
+
+A documentação pública deve preservar a identidade das crianças e dos demais participantes.
+
+Eventuais registros da ação serão selecionados conforme as autorizações aplicáveis, priorizando fotos dos materiais e das atividades sem exposição de rostos ou dados pessoais.
+
+## 🚧 Status
+
+Projeto em desenvolvimento, com ação escolar programada para 22 de setembro de 2026.
+
+Preparação realizada:
+
+- Apresentação educativa e roteiro preparados.
+- Guia digital publicado.
+- QR Code criado e testado pela autora.
+- Artes dos cartões, caixas e cartazes preparadas.
+
+Próximas etapas:
+
+- Finalizar a impressão e a montagem dos materiais.
+- Realizar a ação escolar.
+- Organizar os registros autorizados.
+- Documentar resultados, dúvidas e aprendizados.
+- Atualizar o portfólio após a atividade.
 
 ## 👩‍💻 Autoria
 
-**Caroline de Santana**
-
-Análise e Desenvolvimento de Sistemas  
+**Caroline de Santana**  
+Estudante de Análise e Desenvolvimento de Sistemas  
 Projeto acadêmico e de portfólio — 2026
+
+[LinkedIn](https://www.linkedin.com/in/caroline-de-santana-747345272/)
