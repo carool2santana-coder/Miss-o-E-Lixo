@@ -1,74 +1,61 @@
-# Controle financeiro para motoboys
+# 🏍️ Controle Financeiro para Motoboys
 
-**Autora:** Caroline de Santana  
-**Ano:** 2026  
-**Contexto:** projeto acadêmico  
-**Ferramenta:** Microsoft Excel  
-**Status:** solução entregue e projeto acadêmico aprovado.
+- **Autora:** Caroline de Santana
+- **Ano:** 2026
+- **Contexto:** Projeto Acadêmico (Análise e Desenvolvimento de Sistemas)
+- **Ferramenta:** Microsoft Excel
+- **Status:** Solução entregue e projeto acadêmico aprovado ✅
 
-## Contexto e problema
+---
 
-A rotina dos entregadores envolve recebimentos, gastos durante o trabalho e despesas de manutenção. Considerar apenas o valor recebido pelas entregas dificulta entender quanto realmente sobra.
+## 📌 Contexto e Problema
+A rotina dos entregadores envolve coletas, gastos diários durante o trabalho na rua e despesas de manutenção da moto. Considerar apenas o valor bruto recebido pelas entregas gera dificuldade de entender o quanto realmente sobra no final do período.
 
-A partir de uma reunião com meus irmãos, que trabalham como motoboys, identifiquei a necessidade de organizar essas informações em uma ferramenta simples.
+A partir de uma reunião com meus irmãos, que trabalham como motoboys, identifiquei a necessidade de organizar essas informações em uma ferramenta simples, direta e adaptada à rotina deles.
 
-## Objetivo
+## 🎯 Objetivo
+Facilitar o acompanhamento de entradas e despesas operacionais, possibilitando uma visão financeira clara, tanto **semanal** quanto **mensal**.
 
-Facilitar o acompanhamento de entradas e despesas, permitindo uma visão financeira semanal e mensal.
+## 👩‍💻 Minha Atuação
+O projeto envolveu três pessoas e o levantamento de requisitos foi realizado em uma reunião direcionada à compreensão do problema real dos usuários:
+- Conversei com os participantes para compreender sua rotina de trabalho na rua.
+- Identifiquei a dificuldade de visualizar o lucro líquido (ganhos reais após descontar as despesas).
+- Organizei e categorizei as informações necessárias para o controle diário.
+- Desenvolvi, testei e entreguei uma planilha automatizada em Microsoft Excel.
 
-## Minha atuação
+---
 
-- Conversei com os participantes para compreender sua rotina.
-- Identifiquei a dificuldade de visualizar os ganhos após as despesas.
-- Organizei as informações necessárias para o controle.
-- Desenvolvi e entreguei uma planilha em Excel.
+## 💡 Necessidades e Solução
+Esta tabela organiza o escopo da experiência levantada com os usuários e como a planilha resolve cada ponto:
 
-O projeto envolveu três pessoas. O levantamento foi realizado em uma reunião, direcionada à compreensão do problema.
+| Necessidade Identificada | Resposta da Solução (Funcionalidade) |
+| :--- | :--- |
+| Acompanhar os valores recebidos | Registro estruturado de entradas diárias |
+| Identificar os custos do trabalho | Registro separado de gastos na rua (combustível e alimentação) e manutenção |
+| Visualizar quanto realmente sobra | Cálculo automático do saldo líquido entre entradas e saídas |
+| Comparar períodos | Painel de acompanhamento consolidado semanal e mensal |
 
-## Necessidades e solução
+---
 
-| Necessidade identificada | Resposta da solução |
-| --- | --- |
-| Acompanhar os valores recebidos | Registro de entradas |
-| Identificar os custos do trabalho | Registro de gastos na rua e manutenção |
-| Visualizar quanto sobra | Organização do saldo entre entradas e saídas |
-| Comparar períodos | Acompanhamento semanal e mensal |
+## 📦 Entrega e Limites do Projeto
+- **Entrega:** Planilha de controle financeiro com organização de entradas, despesas por categoria, indicadores operacionais e saldo líquido, considerando a rotina prática dos participantes. A solução foi construída em Excel, sem necessidade de desenvolvimento de aplicativo próprio.
+- **Limites e Transparência:** A planilha foi entregue e o projeto acadêmico foi aprovado. Não houve medição formal posterior de economia, aumento de renda ou frequência de utilização a longo prazo; por isso, esses efeitos não são apresentados como resultados comprovados. A contribuição concreta consistiu em disponibilizar uma ferramenta funcional e acessível para organizar a vida financeira dos participantes.
 
-Esta tabela organiza retrospectivamente o escopo da experiência para apresentação no portfólio.
+---
 
-## Entrega
+## 🛠️ Competências Demonstradas
+- Levantamento de necessidades com usuários reais (Entrevista / Requisitos).
+- Identificação e diagnóstico de problemas na rotina dos usuários.
+- Organização e estruturação lógica de informações financeiras.
+- Definição de escopo e regras de negócio da solução.
+- Construção de solução automatizada em Microsoft Excel (fórmulas, consolidação semanal/mensal e indicadores).
+- Comunicação clara e empatia com os participantes.
 
-Planilha de controle financeiro com organização de entradas, despesas e saldo, considerando a rotina dos participantes.
+## 📚 Aprendizados
+A experiência mostrou a importância de ouvir os usuários antes de definir uma solução tecnológica. Uma ferramenta simples e bem estruturada pode atender perfeitamente a uma necessidade real quando se respeita a rotina de quem vai utilizá-la. Também reforçou a visão analítica sobre a diferença entre entregar uma solução funcional e medir seus efeitos contínuos após a implantação.
 
-A solução foi construída em Excel, sem desenvolvimento de aplicativo próprio.
+---
 
-## Resultados e limites
-
-A planilha foi entregue e o projeto acadêmico foi aprovado.
-
-Não houve medição formal de economia, aumento de renda ou frequência de utilização. Por isso, esses efeitos não são apresentados como resultados comprovados.
-
-A contribuição concreta foi disponibilizar uma ferramenta para organizar as informações financeiras dos participantes.
-
-## Competências demonstradas
-
-- Levantamento de necessidades.
-- Identificação de um problema na rotina dos usuários.
-- Organização de informações.
-- Definição de escopo.
-- Construção de solução em Excel.
-- Comunicação com os participantes.
-
-## Aprendizados
-
-A experiência mostrou a importância de ouvir os usuários antes de definir uma solução. Uma ferramenta simples pode atender a uma necessidade real quando considera a rotina de quem vai utilizá-la.
-
-Também reforçou a diferença entre entregar uma solução e medir seus efeitos após a utilização.
-
-## Evidências
-
-Este estudo de caso foi documentado a partir da experiência relatada pela autora. A planilha original e o comprovante de avaliação ainda não estão anexados a esta pasta.
-
-Dados financeiros dos participantes não são publicados.
-
-[Voltar ao portfólio](../README.md)
+## 📂 Evidências e Privacidade
+- **Arquivo de Demonstração:** A pasta deste repositório contém a versão estruturada da planilha (`Controle_Financeiro_Motoboys_Caroline_Santana.xlsx`) preenchida com **dados fictícios** para demonstração das fórmulas, painel semanal/mensal e gráficos.
+- **Privacidade:** Por questões de sigilo e privacidade, os dados financeiros reais dos participantes não são publicados.
